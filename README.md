@@ -61,6 +61,10 @@ The stabilization system uses a closed-loop control approach:
 
 ## Control Logic
 Servo Position = Center ± (Angle × Gain)
+
+# PCB Design
+
+Designed a small PCB for this refer to [https://github.com/diptiman-mohanta/PCB-Designs/tree/main/rocket-fin-stabilizer]
 # Installation
 
 ```bash
